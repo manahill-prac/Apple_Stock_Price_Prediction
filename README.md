@@ -1,49 +1,47 @@
-📊 Data Science Survey Analysis (2017–2021)
+# Apple Stock Price Prediction
 
-This project analyzes the Kaggle Data Science & Machine Learning Survey (2017–2021) to explore key trends in tools, salaries, education, and demographics among data professionals.
-It includes data cleaning, exploratory data analysis (EDA), and interactive visualizations, all built in Python.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
 
+## Project Overview
 
-📂 Dataset
+This project predicts Apple Inc. (AAPL) stock prices using historical stock data. It demonstrates how **Linear Regression** and **LSTM (Long Short-Term Memory)** models can forecast future stock prices based on key financial features:
 
-Source: Kaggle "Data Science and Machine Learning Survey" (2017–2021)
+- Open  
+- Close  
+- High  
+- Low  
+- Volume  
 
-Link: Kaggle Dataset
+The project covers:
 
+1. Data preprocessing and cleaning  
+2. Exploratory Data Analysis (EDA)  
+3. Model selection, training, and evaluation  
+4. Prediction of stock prices on test data  
+5. Future stock price forecasting (next N days)  
+6. Polished combined visualization showing Actual, Linear Regression, LSTM, and Forecast  
 
-📑 Covered Analysis
+---  
 
-✔ Data Cleaning & Preprocessing
-✔ Exploratory Data Analysis (EDA)
-✔ Demographics of Data Scientists (age, education, geography)
-✔ Tools & Technologies trends (Python, R, SQL, Cloud, ML frameworks)
-✔ Salary Distribution & Career Path insights
-✔ Visualizations (bar charts, line plots, heatmaps, summary dashboards)
+**Data Source:** Kaggle : https://www.kaggle.com/datasets/samanfatima7/2020-2025-apple-stock-dataset
 
-🛠 Tools & Libraries
+---
 
-Python
+## Usage Instructions
 
-Pandas & NumPy
+1. Clone the repository:
 
-Matplotlib & Seaborn
+```bash
+git clone YOUR_REPO_LINK_HERE
+cd YOUR_PROJECT_FOLDER
+````
 
-Google Colab (execution environment)
+2. Install required dependencies:
 
-▶ How to Run
-
-Clone this repo
-
-git clone https://github.com/your-username/DataScience_Survey_2017_2021.git
-cd DataScience_Survey_2017_2021
-
-
-Place the dataset (survey_2017_2021.csv) inside data/.
-
-Install requirements:
-
+```bash
 pip install -r requirements.txt
+```
 
-
-Run the notebook in Jupyter or open directly in Colab:
+3. Open the notebook in **Google Colab** or **Jupyter** .
+4. Run all cells sequentially to:
 
