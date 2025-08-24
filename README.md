@@ -26,22 +26,13 @@ The project covers:
 **Data Source:** Kaggle : https://www.kaggle.com/datasets/samanfatima7/2020-2025-apple-stock-dataset
 
 ---
-
-## Usage Instructions
-
-1. Clone the repository:
-
-```bash
+Usage Instructions
+Clone the repository:
 git clone YOUR_REPO_LINK_HERE
 cd YOUR_PROJECT_FOLDER
-````
-
-2. Install required dependencies:
-
-```bash
+Install dependencies:
 pip install -r requirements.txt
-```
+Run the notebook:
+Open in Google Colab or Jupyter Notebook and run all steps sequentially.
 
-3. Open the notebook in **Google Colab** or **Jupyter** .
-4. Run all cells sequentially to:
 
