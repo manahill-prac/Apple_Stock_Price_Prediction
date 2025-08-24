@@ -28,16 +28,20 @@ The project covers:
 ---
 ## Usage Instructions
 
+### Clone the repository:
 ```bash
-Clone the repository
 git clone YOUR_REPO_LINK_HERE
 cd YOUR_PROJECT_FOLDER
-Install dependencies:
-bash
-Copy
-Edit
+````
+
+### Install dependencies:
+
+```bash
 pip install -r requirements.txt
-Run the notebook:
-Click the Colab badge above ☝️ or open the notebook in Google Colab / Jupyter and run all steps sequentially.
+```
+
+### Run the notebook:
+
+Open in **Google Colab** or **Jupyter Notebook** and run all steps sequentially.
 
 ---
