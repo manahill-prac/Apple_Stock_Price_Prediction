@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ```
 
 ### Run the notebook:
-
+```bash
 Open in **Google Colab** or **Jupyter Notebook** and run all steps sequentially.
-
+```
 ---
