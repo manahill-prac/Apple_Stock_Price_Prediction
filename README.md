@@ -28,7 +28,7 @@ The project covers:
 ---
 ## Usage Instructions
 
-### Clone the repository:
+Clone the repository:
 ```bash
 git clone YOUR_REPO_LINK_HERE
 cd YOUR_PROJECT_FOLDER
